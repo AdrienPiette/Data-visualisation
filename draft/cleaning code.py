@@ -5,7 +5,7 @@ import numpy as np
 
 df = pd.read_json('final_dataset.json')
 
-
+df.head()
 
 #cleaning data
 
@@ -16,7 +16,7 @@ df = pd.read_json('final_dataset.json')
 - No errors
 - No empty values
 
-'''
+
 def cleaning ():
 
     df.dropna()
@@ -29,4 +29,4 @@ cleaning()
 
 df_cleaned = cleaning()
 
-print(df_cleaned)
+print(df_cleaned)'''
