@@ -7,10 +7,8 @@ import numpy as np
 
 
 df = pd.read_json("final_dataset.json")
-
-
 print(df.head())
-print(df)
+
 
 
 
