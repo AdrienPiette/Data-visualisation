@@ -23,7 +23,8 @@ The **Immo Eliza Data Visualization** project aims to provide insightful analysi
   - **Matplotlib**: For creating static plots and charts
   - **Seaborn**: For statistical data visualization
 
-## 📅 Project Timeline 📅 ![Data Cleaning](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHdpZW1jN2x1enFmcjlseXN6bm1xY25rYXJ0NW5ndms1cDl2bG5rNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUySTEJYS5F1Cayg92/giphy.webp.gif)
+## 📅 Project Timeline 📅 
+![Data Cleaning](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHdpZW1jN2x1enFmcjlseXN6bm1xY25rYXJ0NW5ndms1cDl2bG5rNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUySTEJYS5F1Cayg92/giphy.webp.gif)
 ### Day 1
 - Initial setup and environment configuration
 - Import and load the dataset
@@ -58,12 +59,12 @@ The **Immo Eliza Data Visualization** project aims to provide insightful analysi
 ### Day 7
 - Prepare final visualizations and report
 
-## 👥 Contributors 👥 ![Data Cleaning](https://media2.giphy.com/media/eU2sRBEme4GIM/giphy.gif)
+## 👥 Contributors 👥 
 - Adrien Piette
 - Alper Carpan
 - Minh Dao
 
-
+![Data Cleaning](https://media2.giphy.com/media/eU2sRBEme4GIM/giphy.gif)
 
 
 
