@@ -24,7 +24,7 @@ The **Immo Eliza Data Visualization** project aims to provide insightful analysi
   - **Seaborn**: For statistical data visualization
 
 ## 📅 Project Timeline 📅 
-![Data Cleaning](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHdpZW1jN2x1enFmcjlseXN6bm1xY25rYXJ0NW5ndms1cDl2bG5rNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUySTEJYS5F1Cayg92/giphy.webp.gif)
+![Data Cleaning](https://media.giphy.com/media/1XdfVRTyn5d31Q1lG0/giphy.gif?cid=790b761131737kls6f2akbdzvjj8978vquqjz06pgvj93tnf&ep=v1_gifs_search&rid=giphy.gif&ct=g.gif)
 ### Day 1
 - Initial setup and environment configuration
 - Import and load the dataset
@@ -64,7 +64,7 @@ The **Immo Eliza Data Visualization** project aims to provide insightful analysi
 - Alper Carpan
 - Minh Dao
 
-![Data Cleaning](https://media2.giphy.com/media/eU2sRBEme4GIM/giphy.gif)
+![Data Cleaning](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmU4NzgzNnd3bGxzbTN0b2g3bmt6bmV4Y3BnOHN0dnBoZnU0em45NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjHV0z8S7WM4MwnK/giphy.gif.gif)
 
 
 
